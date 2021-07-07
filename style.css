@@ -27,6 +27,90 @@ SHA-1 :
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
+.fz-10{
+  font-size: 10px !important;
+}
+.fz-11{
+  font-size: 11px !important;
+}
+.fz-12{
+  font-size: 12px !important;
+}
+.fz-13{
+  font-size: 13px !important;
+}
+.fz-14{
+  font-size: 14px !important;
+}
+.fz-15{
+  font-size: 15px !important;
+}
+.fz-16{
+  font-size: 16px !important;
+}
+.fz-17{
+  font-size: 17px !important;
+}
+.fz-18{
+  font-size: 18px !important;
+}
+.fz-19{
+  font-size: 19px !important;
+}.fz-20{
+  font-size: 20px !important;
+}
+.fz-21{
+  font-size: 21px !important;
+}
+.fz-22{
+  font-size: 22px !important;
+}
+.fz-23{
+  font-size: 23px !important;
+}
+.fz-24{
+  font-size: 24px !important;
+}
+.fz-25{
+  font-size: 25px !important;
+}
+.fz-26{
+  font-size: 26px !important;
+}
+.fz-28{
+  font-size: 28px !important;
+}
+.fz-29{
+  font-size: 29px !important;
+}
+.fz-30{
+  font-size: 30px !important;
+}
+.fz-31{
+  font-size: 31px !important;
+}
+.fz-32{
+  font-size: 32px !important;
+}
+.fw-100{
+  font-weight: 100 !important;
+}
+.mr-15{
+  margin-right: 15px;
+}
+.icon-div{
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  margin-bottom: 15px;
+}
+.icon-div div{
+  display: block;
+  max-width: 80%;
+}
+.icon-div span{
+  display: block;
+}
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
